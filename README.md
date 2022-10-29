@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer 
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me dasilvamillanohatvey@gmail.com
+- 📫 How to reach me dasilvamillanoharvey@gmail.com
 
 <!---
 Harvsft/Harvsft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
